@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio_Projects/static/css/main.19ef34f8.css",
-    "main.js": "/MyPortfolio_Projects/static/js/main.8b19d110.js",
+    "main.js": "/MyPortfolio_Projects/static/js/main.325ebbef.js",
     "static/media/Weather-App-project.gif": "/MyPortfolio_Projects/static/media/Weather-App-project.4696a264e7f7382988c9.gif",
     "static/media/MakeMy-tripJourney-project.gif": "/MyPortfolio_Projects/static/media/MakeMy-tripJourney-project.7ca6a4e0009e22adba70.gif",
     "static/media/Random-Gif-generator.gif": "/MyPortfolio_Projects/static/media/Random-Gif-generator.91f3957c5fa6910772d7.gif",
@@ -10,17 +10,17 @@
     "static/media/Top Course-Project.gif": "/MyPortfolio_Projects/static/media/Top Course-Project.6e8ee639e2101a056dfa.gif",
     "static/media/Github profile search project.gif": "/MyPortfolio_Projects/static/media/Github profile search project.6546b67e244bd59fccd2.gif",
     "static/media/ModernChair-Project.gif": "/MyPortfolio_Projects/static/media/ModernChair-Project.985d680d3da5c93b2677.gif",
-    "static/media/Myprofile.png": "/MyPortfolio_Projects/static/media/Myprofile.324eb6aa9d872b2d591a.png",
     "static/media/Blob-profile.jpg": "/MyPortfolio_Projects/static/media/Blob-profile.0d865cc76c78e64379ad.jpg",
+    "static/media/MY Profile 1.jpg": "/MyPortfolio_Projects/static/media/MY Profile 1.7e1906bd0ddd103e0fe1.jpg",
     "static/media/github.gif": "/MyPortfolio_Projects/static/media/github.ccf3c3b51e2fa72c48b8.gif",
     "static/media/moon.svg": "/MyPortfolio_Projects/static/media/moon.481d615c7947ab90c3dd137a003f1b86.svg",
     "index.html": "/MyPortfolio_Projects/index.html",
     "static/media/sun.svg": "/MyPortfolio_Projects/static/media/sun.c4aadee8154152322b8ad92e3d3cc9bb.svg",
     "main.19ef34f8.css.map": "/MyPortfolio_Projects/static/css/main.19ef34f8.css.map",
-    "main.8b19d110.js.map": "/MyPortfolio_Projects/static/js/main.8b19d110.js.map"
+    "main.325ebbef.js.map": "/MyPortfolio_Projects/static/js/main.325ebbef.js.map"
   },
   "entrypoints": [
     "static/css/main.19ef34f8.css",
-    "static/js/main.8b19d110.js"
+    "static/js/main.325ebbef.js"
   ]
 }
